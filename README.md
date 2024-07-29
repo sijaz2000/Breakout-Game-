@@ -7,7 +7,9 @@ A breakout game is a classic arcade game where the player controls a paddle at t
 
 
 ## Demo
-![breakout demo gif](Breakout Game\res\BreakoutDemoVideo.gif)
+<div align="center">
+  <img src="https://github.com/sijaz2000/Breakout-Game-/blob/main/Breakout%20Game/res/BreakoutDemoVideo.gif" alt="BreakoutGIF">
+</div>
 
 
 
